@@ -1,4 +1,7 @@
  Digital Coupon & Discount Code Aggregator
+
+
+ 
 This project is a web-based platform designed to help users discover, submit, and manage online coupons and discount codes. Built using HTML, CSS, Tailwind CSS, JavaScript, PHP, and MySQL, it offers a seamless experience for both users and administrators.​
 
 The application features a user-friendly interface where visitors can browse the latest coupons on the homepage. Registered users have the ability to add new coupons through a dedicated form, enhancing the platform's offerings. The search functionality allows users to find coupons by keyword or store, making it easier to locate desired deals.​
